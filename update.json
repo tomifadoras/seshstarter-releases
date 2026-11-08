@@ -1,7 +1,7 @@
 {
-  "version": "0.11.3",
-  "zip": "https://raw.githubusercontent.com/tomifadoras/seshstarter-releases/main/releases/SeshStarter-0.11.3.zip",
-  "sha256": "b82da44dca9df730d574d4c06400981e07c70adbd3975033928a3c8bf9230d28",
-  "notes": "Clear BPM and major/minor labels beside the main results, responsive result sizing, and helpful unavailable-video errors.",
-  "signature": "NqW6YQwI89roMzoSKT98l46weWhPuDqZOOyUtr10itH4mkClvWk0jmF8crjGAUsqb8H8SWMNwaTmy+kFrG6Ct+FxyZC+Dg1DutyA6rknILgV+9mxOlcQZbxeWS/qIlur2gEwkl20d6UxPohSQiWZG1qWeTLd1yDvcgHjLbOfE/pITtmADHp9UoaSylENx2XKKyPsM6Ssw0k3elJbsmDVROkPdQp/smKDH9GolPk57VHJXlvvjHxnz1N/mqKpyLOtBa72n5bLZz7tGSwOiA/ZwfQEwUN07kbGCVhD/TrYJqDGU/XVLMSbrfLn+tDhOjbICXxpY/T3L31g/VONkMBa8sdm6tLc3/+I3CCxUkGtWJnyvsdcRGKwjEpC6VdKMuQk7Qmd6+biYLtLE7vUNrnnN/MsIDV1VQhczfKV3HJlOUSstXQgRfjcjykQMFv/mUn0A5nKccFXJECrTMi3vFOZF9/g2pOFS/AXHjImMcb+TDFVZS4dCjv5HOvNp68eep0r"
+  "version": "0.11.4",
+  "zip": "https://raw.githubusercontent.com/tomifadoras/seshstarter-releases/main/releases/SeshStarter-0.11.4.zip",
+  "sha256": "1e8bf7c83fdc70b6d79e4c5e56d6c0f381f5ce48e9b3047ef4d6c7759d1d7af4",
+  "notes": "Correct baseline alignment for BPM and major/minor labels; clearer unavailable-video errors.",
+  "signature": "aNlif0mPbG3KMuhcpSUAFt7C2rVW1zotPiqHrvlJo2XCYHehz+4u11TRiH4naxeq2NwEMxQINjxXbyM78Nd2jXNqNn1xusc5aIqrE60I+TfSeV6KpNicfoSCY8o+J8iMn5+0netTARxIFucdBVVeVE0CNKbMR7Pdn12UHfPG61jlBcAbmpOJByr2Wpm2sraotKnL5lfVMaSPSScgJSktsgK5HLPtbx73N5I30LjI4yaqc+e72w4J/Z9oAYlecNSUV3W60xjmgJj1oxpXdbyvmvC+C3iMDyw5/Ew/iPWpWwwwtqmoHHP6Zwr+uIgUF0IVo9NgaRris3DMiJebFKpL+yLcZj/tRI6PSEd3FNxCbKJjBCySlXLx7u+TCC6RnDVuLwOWp3VK5+fEUcB1kbYWrrEDTzwC/+TvFo3H2WdF0QgpzeblY3xtgoDeaZRFpDUeshChzePT9QKm8bTGy4e+i/Wh7GU2/uh0C8H2X+mCWZNjtaITjCgTMGNbZ64dDMnf"
 }

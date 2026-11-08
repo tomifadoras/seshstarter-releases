@@ -1,6 +1,6 @@
 # Sesh Starter for Windows
 
-Public beta 0.11.3. Free BPM and musical key finder for producers and artists.
+Public beta 0.11.4. Free BPM and musical key finder for producers and artists.
 
 Download and setup: https://seshstarter.com/windows.html
 
@@ -12,5 +12,5 @@ Feedback: contact@seshstarter.com
 
 macOS remains in separate beta testing.
 
-0.11.3: clearer BPM and major/minor result labels with responsive sizing; helpful unavailable-video errors.
+0.11.4: baseline-aligned BPM and major/minor result labels with responsive sizing; helpful unavailable-video errors.
 
